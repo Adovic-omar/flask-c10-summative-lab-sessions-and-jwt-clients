@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+instance/*.db
+.pytest_cache/
+cookies.txt
+cookies2.txt
